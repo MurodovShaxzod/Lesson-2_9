@@ -1,6 +1,6 @@
 body {
-  background: url(/img/backgound-meal.jpg) no-repeat rgba(255, 255, 255, 0.672);
-  background-size:  100% 160%;
+  background: url(/img/backgound-meal.jpg) no-repeat rgba(251, 255, 6, 0.7);
+  background-size:  100% 100%;
   padding: 85px 0;
 }
 
@@ -10,8 +10,8 @@ body {
   position: absolute;
   top: 0;
   left: 0;
-  background-color: rgb(223, 252, 60);
-  opacity: .5;
+  background-color: rgba(251, 255, 6, 0.7);
+  opacity: .7;
   z-index: -1;
 }
 
